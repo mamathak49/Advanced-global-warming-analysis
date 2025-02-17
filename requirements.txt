@@ -1,1 +1,4 @@
+streanlit
+pandas
+matplotlib
 seaborn
